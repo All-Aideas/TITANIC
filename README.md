@@ -24,7 +24,7 @@ Este repositorio contiene el código y los recursos para el Proyecto Final Integ
    ```bash
    python -m venv env
    source env/bin/activate
-````
+
 
 3. Instala las dependencias necesarias:
 
