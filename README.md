@@ -1,6 +1,6 @@
 
 
-````
+
 # Predicción de Supervivencia en el Titanic – Proyecto Final Integrador
 
 Este repositorio contiene el código y los recursos para el Proyecto Final Integrador del Diplomado en Ciencia de Datos y Análisis Avanzado. El objetivo es predecir la supervivencia de los pasajeros del RMS Titanic utilizando técnicas de Machine Learning, siguiendo la metodología CRISP‑DM.
