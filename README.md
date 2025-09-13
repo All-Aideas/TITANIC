@@ -71,7 +71,4 @@ El notebook incluye una aproximación manual de los valores SHAP para la Regresi
 * Datos: **Kaggle – Titanic: Machine Learning from Disaster**.
 * Documentación de SHAP: [https://shap.readthedocs.io/](https://shap.readthedocs.io/).
 
-```
 
-Puedes pegar este contenido en tu archivo `README.md` en GitHub.
-```
